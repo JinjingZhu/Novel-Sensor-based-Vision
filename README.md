@@ -1,1 +1,3 @@
-# Novel-Sensor-based-Vision
+# Event-based Vision
+# Thermal-based Vision
+# Panoramic-based Vision
